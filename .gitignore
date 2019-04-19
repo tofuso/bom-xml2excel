@@ -4,3 +4,5 @@ assets/
 .vscode/
 # デバッグデータも含めない
 debug
+# リリース用の実行ファイルも含めない
+release/

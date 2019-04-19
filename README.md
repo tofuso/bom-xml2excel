@@ -4,7 +4,7 @@ KicadのEeschemaで出力できるパーツリスト(BOM)をEXCELに変換する
 
 ## インストール方法
 
-[ここから実行ファイルを入手できます。](https://github.com/tofuso/bom-xml2excel/release)
+[ここから実行ファイルを入手できます。](https://github.com/tofuso/bom-xml2excel/releases)
 
 ## 使い方
 
